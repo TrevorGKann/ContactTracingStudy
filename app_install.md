@@ -1,7 +1,8 @@
 # App Instalation Guide
 
-First, download the app from [this link](). 
-Then, go to the "Files" app on your phone and click on the downloaded APK.
+First, download the app from [this link](https://github.com/TrevorGKann/ContactTracingStudy/raw/main/CoCoT_App.apk). 
+Then, either click the bubble that said it was downloaded or go to the "Files" app on your phone and click on the downloaded APK.
+Your phone may ask you to give permissions to install apps downloaded from the internet, temporarily allow this (you should probably set it to off after you install our app).
 Select yes, and install the app. 
 When you run the app for the first time, it will ask for Bluetooth permissions, please say yes as the app will not function without this permission. 
 Your app is installed and ready to go!
