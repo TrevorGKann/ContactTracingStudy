@@ -5,7 +5,7 @@ I am looking to conduct a study to collect data to better measure the efficacy o
 
 If you're interested, you can sign up [here]()!
 
-If you've already signed up, you can install our custom app via [this link](), and follow the [installation steps here](app_install.md).
+If you've already signed up, you can install our custom app via [this link](https://github.com/TrevorGKann/ContactTracingStudy/raw/main/CoCoT_App.apk), and follow the [installation steps here](app_install.md).
 
 ## More Information
 
