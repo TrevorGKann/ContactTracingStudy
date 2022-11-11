@@ -92,10 +92,3 @@ We will eventually release the data as a public dataset for future research.
 
 Feel free to reach out to me at < tkann \[at\] cmu \[dot\] edu > for any more questions about the study.
 </details>
-
-
-<details>
-<summary><b></b></summary>
-
-
-</details>
