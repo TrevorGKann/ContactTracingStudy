@@ -3,7 +3,9 @@
 ## Overview
 We are looking to conduct a study where we collect data to better measure the efficacy of contact tracing algorithms, and we need your help!
 
-If you're interested, you can sign up [here](https://forms.gle/KyJ7SJerBSGg8eyC7)! Free food will be provided as well as a chance to win a $50 gift card, some studies have games as well. You may register for multiple study sessions.
+If you're interested, you can sign up [here](https://forms.gle/KyJ7SJerBSGg8eyC7)!
+Free food will be provided as well as a chance to win a $50 gift card, some studies have games as well.
+You may register for multiple study sessions (you will need to fill out a consent form for each one).
 
 If you've already signed up, you can install our custom app via [this link](https://github.com/TrevorGKann/ContactTracingStudy/raw/main/CoCoT_App.apk), and follow the [installation steps here](app_install.md).
 
@@ -69,7 +71,7 @@ Our app collects data from the following information from your phone and its sen
 * heading
 * magnetometer
 * compas
-* Bluetooth signal strength to other phones running the app
+* Bluetooth received signal strength (only to other phones running our app)
 
 This information is stored locally on your device until you complete the send-off form, at which point it sends it to me anonymously.
 We do not believe the information contained from these sensors can be used to infer sensitive information about you and your name is not linked to your data.
