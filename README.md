@@ -42,18 +42,22 @@ Depending on which study(ies) you participate in, we'll ask you to perform some 
 Once the activities are complete, we'll collect the data from your phones as well as return the lanyards then raffle off some gift cards.
 </details>
 
+
 <details>
 <summary><b>What are the Study Sessions?</b></summary>
 
 We will be hosting three (3) studies for you to participate in, you may participate in as many as you'd like.
-The three sessions we are host are:
+The three sessions we are hosting are:
 
 * Indoor Structured
     * In this study, you will be assigned sequential locations in a room. When directed, you will navigate to each location then remain there for 60 seconds to collect data. Once the data has been collected, we will direct you towards the next location.
+    * This session will be hosted on MM/DD/YY
 * Indoor Unstructured
     * We will host an indoor social event and encourage mingling with others and moving around the room. To help with this, we will host an ice breaker.
+    * This session will be hosted on MM/DD/YY
 * Outdoor Unstructured
     * We will host an outdoor social event and provide lawn games (Bocce, Croquet, and Cornhole) to be played.
+    * This session will be hosted on MM/DD/YY
 
 At each study, you will be outfitted with some sensing hardware to collect data about how you move, your location relative to the environment, and your location relative to others. We will also provide food and a chance to win $50 gift cards at each study.
 </details>
