@@ -51,21 +51,21 @@ Once the activities are complete, we'll collect the data from your phones as wel
 We will be hosting three (3) studies for you to participate in, you may participate in as many as you'd like.
 The three sessions we are hosting are:
 
-* Indoor Structured
+1 Indoor Structured
     * In this study, you will be assigned sequential locations in a room. When directed, you will navigate to each location then remain there for 60 seconds to collect data. Once the data has been collected, we will direct you towards the next location.
     * This session will be hosted on MM/DD/YY
-* Indoor Unstructured
+2 Indoor Unstructured
     * We will host an indoor social event and encourage mingling with others and moving around the room. To help with this, we will host an ice breaker.
     * This session will be hosted on MM/DD/YY
-* Outdoor Unstructured
+3 Outdoor Unstructured
     * We will host an outdoor social event and provide lawn games (Bocce, Croquet, and Cornhole) to be played.
     * This session will be hosted on MM/DD/YY
 
-At each study, you will be outfitted with some sensing hardware to collect data about how you move, your location relative to the environment, and your location relative to others. We will also provide food and a chance to win $50 gift cards at each study.
+At each study, you will be outfitted with some sensing hardware to collect data about how you move, your location relative to the environment, and your location relative to others. We will provide food at the unstructured studies (2 & 3). All participants will have a chance to win $50 gift cards at each study (1-3).
 </details>
 
 <details>
-<summary><b>Who is eligible to participate?</b></summary>
+<summary><b>Who is Eligible to Participate?</b></summary>
 
 You must be 18 years or older and be able to be physically present for the duration of the study to participate.
 We prefer that you have an Android phone running Android 8.1 or higher, since we will be using them for the study to collect data.
