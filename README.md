@@ -51,13 +51,13 @@ Once the activities are complete, we'll collect the data from your phones as wel
 We will be hosting three (3) studies for you to participate in, you may participate in as many as you'd like.
 The three sessions we are hosting are:
 
-1 Indoor Structured
+1. Indoor Structured
     * In this study, you will be assigned sequential locations in a room. When directed, you will navigate to each location then remain there for 60 seconds to collect data. Once the data has been collected, we will direct you towards the next location.
     * This session will be hosted on MM/DD/YY
-2 Indoor Unstructured
+2. Indoor Unstructured
     * We will host an indoor social event and encourage mingling with others and moving around the room. To help with this, we will host an ice breaker.
     * This session will be hosted on MM/DD/YY
-3 Outdoor Unstructured
+3. Outdoor Unstructured
     * We will host an outdoor social event and provide lawn games (Bocce, Croquet, and Cornhole) to be played.
     * This session will be hosted on MM/DD/YY
 
