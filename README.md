@@ -1,3 +1,4 @@
+![logo image](CoCoTLogoFull.svg)
 # ContactTracingStudy
 
 ## Overview
