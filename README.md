@@ -7,6 +7,7 @@ We are looking to conduct a study where we collect data to better measure the ef
 If you're interested, you can sign up [here](https://forms.gle/KyJ7SJerBSGg8eyC7)!
 Free food will be provided as well as a chance to win a $50 gift card, some studies have games as well.
 You may register for multiple study sessions (you will need to fill out a consent form for each one).
+If you're unsure whether or not your devices meets our requirements, you can download [this test-app](https://github.com/TrevorGKann/ContactTracingStudy/raw/main/CoCoT_App.apk)
 
 If you've already signed up, you can install our custom app via [this link](https://github.com/TrevorGKann/ContactTracingStudy/raw/main/CoCoT_App.apk), and follow the [installation steps here](app_install.md).
 
