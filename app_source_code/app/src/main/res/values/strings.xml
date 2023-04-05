@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CoCo T Experiment</string>
+    <string name="FieldReport">%1$s: %2$.2f, %3$.2f, %4$.2f</string>
+    <string name="FieldReportLog">%1$s,%2$f,%3$f,%4$f</string>
+    <string name="BLELog">Bluetooth,Participant%1$d,%2$d</string>
+    <string name="startStopButtonText_start">Start</string>
+    <string name="startStopButtonText_stop">Stop</string>
+    <string name="startStopButtonText_uploading">Upload</string>
+    <string name="storageButtonText">Manage storage</string>
+    <string name="uploadLogFile_feedback_upload">Uploading Data…</string>
+    <string name="uploadLogFile_feedback_uploadComplete">Upload complete!</string>
+    <string name="uploadLogFile_feedback_uploadFailed">Upload failed!</string>
+    <string name="participant_id_hint">Your participant\nID number</string>
+    <string name="LogFile_participantID">ParticipantID,%1$d\n</string>
+    <string name="LogFile_deviceModel">TXdevice,%1$s\n</string>
+    <string name="LogFile_fingerprint">Fingerprint,%1$s\n</string>
+</resources>
