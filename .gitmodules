@@ -1,0 +1,3 @@
+[submodule "app_source_code/SensorMeasurementApp"]
+	path = app_source_code/SensorMeasurementApp
+	url = https://cement.andrew.cmu.edu/tkann/SensorMeasurementApp.git
