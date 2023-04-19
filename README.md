@@ -4,7 +4,7 @@
 ## Overview
 We are looking to conduct a study where we collect data to better measure the efficacy of contact tracing algorithms, and we need your help!
 
-If you're interested, you can sign up [here](https://forms.gle/KyJ7SJerBSGg8eyC7)!
+If you're interested, [you can sign up here](https://forms.gle/KyJ7SJerBSGg8eyC7)!
 Free food will be provided as well as a chance to win a $50 gift card, some studies have games as well.
 You may register for multiple study sessions (you will need to fill out a consent form for each one).
 If you're unsure whether or not your devices meets our requirements, you can download [the app](https://github.com/TrevorGKann/ContactTracingStudy/raw/main/CoCoT_App.apk) and run the "Phone Capability Tester" launcher. 
@@ -62,11 +62,13 @@ The three sessions are:
     * This session will be hosted on [5/2/23 at 12:30PM](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGU0dGUwZmpudmE0ajRpYjh0NW42b3ZtNzAgY184YjBkMDQ3NmZiOTJiMDE0MGU1ZWM3MjNkOWIwMTY3NzQyZGU2YzFjZjVlYjVlNWQzYzdlNDE0NzJjOGNmNWI1QGc&tmsrc=c_8b0d0476fb92b0140e5ec723d9b0167742de6c1cf5eb5e5d3c7e41472c8cf5b5%40group.calendar.google.com). Because this one is outdoors, the timing is subject to change due to weather. 
 3. Indoor Structured
     * In this study, you will be assigned sequential locations in a room. When directed, you will navigate to each location then remain there for 60 seconds to collect data. Once the data has been collected, we will direct you towards the next location.
-    * This session May or may not occur; no date is currently set. 
+    * This session will be hosted on [5/5/23 at 11:30AM](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXRwczVyNmxxZjBlOWw5YmlnaDlsbTd1aWkgY184YjBkMDQ3NmZiOTJiMDE0MGU1ZWM3MjNkOWIwMTY3NzQyZGU2YzFjZjVlYjVlNWQzYzdlNDE0NzJjOGNmNWI1QGc&tmsrc=c_8b0d0476fb92b0140e5ec723d9b0167742de6c1cf5eb5e5d3c7e41472c8cf5b5%40group.calendar.google.com)
+    * This session might be canceled. 
 
 At each study, you will be outfitted with some sensing hardware to collect data about how you move, your location relative to the environment, and your location relative to others.
-We will provide food at the unstructured studies (2 & 3). All participants will have a chance to win $50 gift cards at each study (1-3).
-You can view the [full calendar here](https://calendar.google.com/calendar/embed?src=c_8b0d0476fb92b0140e5ec723d9b0167742de6c1cf5eb5e5d3c7e41472c8cf5b5%40group.calendar.google.com&ctz=America%2FNew_York)
+We will provide food at the unstructured studies (1 & 2). All participants will have a chance to win $50 gift cards at each study (1-3).
+You can view the [full calendar here](https://calendar.google.com/calendar/embed?src=c_8b0d0476fb92b0140e5ec723d9b0167742de6c1cf5eb5e5d3c7e41472c8cf5b5%40group.calendar.google.com&ctz=America%2FNew_York). 
+We will email any potential updates and update this page as well. 
 </details>
 
 <details>
