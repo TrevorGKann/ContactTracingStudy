@@ -75,8 +75,9 @@ We will email any potential updates and update this page as well.
 <summary><b>Who is Eligible to Participate?</b></summary>
 
 You must be 18 years or older and be able to be physically present for the duration of the study to participate.
-We prefer that you have an Android phone running Android 8.1 or higher, since we will be using them for the study to collect data.
-If you do not own such a device, you may still register but your participation in the study depends on how many devices we have to loan. 
+~~We prefer that you have an Android phone running Android 8.1 or higher, since we will be using them for the study to collect data.~~
+~~If you do not own such a device, you may still register but your participation in the study depends on how many devices we have to loan.~~
+You do not need an Android phone, we'll lend you one at the study.
 </details>
 
 
